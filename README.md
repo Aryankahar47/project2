@@ -3,4 +3,4 @@
 this code was written in local system
 
 # add name
-aryan kahr
+aryan kahar
